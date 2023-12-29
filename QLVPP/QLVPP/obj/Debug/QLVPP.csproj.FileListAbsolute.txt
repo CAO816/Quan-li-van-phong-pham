@@ -1,0 +1,81 @@
+D:\QLVPP\QLVPP1\QLVPP\bin\Debug\QLVPP.exe.config
+D:\QLVPP\QLVPP1\QLVPP\bin\Debug\QLVPP.exe
+D:\QLVPP\QLVPP1\QLVPP\bin\Debug\QLVPP.pdb
+D:\QLVPP\QLVPP1\QLVPP\bin\Debug\System.Data.SqlClient.dll
+D:\QLVPP\QLVPP1\QLVPP\bin\Debug\System.Data.SqlClient.xml
+D:\QLVPP\QLVPP1\QLVPP\obj\Debug\QLVPP.csproj.AssemblyReference.cache
+D:\QLVPP\QLVPP1\QLVPP\obj\Debug\QLVPP.Properties.Resources.resources
+D:\QLVPP\QLVPP1\QLVPP\obj\Debug\QLVPP.csproj.GenerateResource.cache
+D:\QLVPP\QLVPP1\QLVPP\obj\Debug\QLVPP.csproj.CoreCompileInputs.cache
+D:\QLVPP\QLVPP1\QLVPP\obj\Debug\QLVPP.csproj.CopyComplete
+D:\QLVPP\QLVPP1\QLVPP\obj\Debug\QLVPP.exe
+D:\QLVPP\QLVPP1\QLVPP\obj\Debug\QLVPP.pdb
+D:\QLVPP\QLVPP1\QLVPP\obj\Debug\QLVPP.Form.frmDangNhap.resources
+D:\QLVPP\QLVPP\QLVPP\bin\Debug\QLVPP.exe.config
+D:\QLVPP\QLVPP\QLVPP\bin\Debug\QLVPP.exe
+D:\QLVPP\QLVPP\QLVPP\bin\Debug\QLVPP.pdb
+D:\QLVPP\QLVPP\QLVPP\bin\Debug\System.Data.SqlClient.dll
+D:\QLVPP\QLVPP\QLVPP\bin\Debug\System.Data.SqlClient.xml
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.csproj.AssemblyReference.cache
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.frmDangNhap.resources
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Properties.Resources.resources
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.csproj.GenerateResource.cache
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.csproj.CoreCompileInputs.cache
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.csproj.CopyComplete
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.exe
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.pdb
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmMain.resources
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.UCHoaDon.resources
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.UCTimKiem.resources
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.UCCongCu.resources
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmPhanCa.resources
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.FrmBangLuong.resources
+D:\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmHoaDon.resources
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\bin\Debug\QLVPP.exe.config
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\bin\Debug\QLVPP.exe
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\bin\Debug\QLVPP.pdb
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\bin\Debug\System.Data.SqlClient.dll
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.csproj.AssemblyReference.cache
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.FrmBangLuong.resources
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.frmDangNhap.resources
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmHoaDon.resources
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmMain.resources
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmPhanCa.resources
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Properties.Resources.resources
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.UCCongCu.resources
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.UCTimKiem.resources
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.UCHoaDon.resources
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.csproj.GenerateResource.cache
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.csproj.CoreCompileInputs.cache
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.csproj.CopyComplete
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.exe
+C:\Users\PHAP NGUYEN\Downloads\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.pdb
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\bin\Debug\QLVPP.exe.config
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\bin\Debug\QLVPP.exe
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\bin\Debug\QLVPP.pdb
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\bin\Debug\System.Data.SqlClient.dll
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\bin\Debug\System.Data.SqlClient.xml
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.csproj.AssemblyReference.cache
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.FrmBangLuong.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.frmDangNhap.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmHoaDon.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmMain.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmPhanCa.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Properties.Resources.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.UCCongCu.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.UCTimKiem.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.UCHoaDon.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.csproj.GenerateResource.cache
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.csproj.CoreCompileInputs.cache
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.csproj.CopyComplete
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.exe
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.pdb
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmSuaSanPham.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmSuaThanhVien.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmThemNhanVien.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmThemThanhVien.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.ThongBao.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmThemSanPham.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmSuaNhanVien.resources
+D:\QLVPP1\QLVPP\QLVPP\QLVPP\obj\Debug\QLVPP.Form.FrmDonNhap.resources
